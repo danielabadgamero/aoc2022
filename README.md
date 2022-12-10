@@ -1,2 +1,2 @@
-# aoc2022
+# AoC2022
 Advent of Code of the year 2022: https://adventofcode.com
